@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 .DS_Store
 edda_serialized_docs_240131.bin
+*.pkl
